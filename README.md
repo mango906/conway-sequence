@@ -2,7 +2,9 @@
 읽고 말하기 수열 알고리즘
 
 사용법: 
-```console.log(conwaySequence(1, 6));```
+```javascript
+console.log(conwaySequence(1, 6));
+```
 부분의 첫번째 인자, 두번째 인자 값을 변경하면 됩니다.
 
 참고자료
